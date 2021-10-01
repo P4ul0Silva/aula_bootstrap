@@ -1,3 +1,31 @@
+body {
+    font: 20px arial, serif;
+}
+
 .navbar {
-    background-color: green !important;
+    background-color:blue !important; /* somente em usar em casos exepcionais */
+}
+
+.brandcustom {
+    border-radius: 30%;
+}
+.quemsomos {
+    background-color:lawngreen;
+    color: white;
+    
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: lightskyblue;
+}
+
+.bg-footer {
+
+background-color:black;
+color: gainsboro;
 }
